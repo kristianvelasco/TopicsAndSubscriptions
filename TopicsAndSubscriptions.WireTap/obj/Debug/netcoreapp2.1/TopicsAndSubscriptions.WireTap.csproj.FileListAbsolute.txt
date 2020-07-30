@@ -1,0 +1,10 @@
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\bin\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.deps.json
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\bin\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.runtimeconfig.json
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\bin\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.runtimeconfig.dev.json
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\bin\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.dll
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\obj\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.csprojAssemblyReference.cache
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\obj\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.AssemblyInfoInputs.cache
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\obj\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.AssemblyInfo.cs
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\bin\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.pdb
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\obj\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.dll
+C:\Demos\ServiceBus\BMID19\TopicsAndSubscriptions\TopicsAndSubscriptions.WireTap\obj\Debug\netcoreapp2.1\TopicsAndSubscriptions.WireTap.pdb
